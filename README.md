@@ -1,1 +1,1 @@
-shell basics repository
+my readme file
