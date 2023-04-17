@@ -1,1 +1,1 @@
-task 0 prints hello world
+task 1 displays a confused smiley
